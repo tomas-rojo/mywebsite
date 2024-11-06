@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # About
 
 <p align="center">
@@ -11,5 +15,9 @@ I'm a DevOps Engineer from <b>Argentina</b>. 🇦🇷
 </p>
 
 <p align="center">
-I'm currently living in <b>Amsterdam</b>, <b>Netherlands</b>. 🇳🇱
+Currently living in <b>Amsterdam</b>, <b>Netherlands</b>. 🇳🇱
+</p>
+
+<p align="center">
+Main focus is Python development, automating stuff and containers
 </p>
