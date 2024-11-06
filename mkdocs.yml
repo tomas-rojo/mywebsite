@@ -1,7 +1,6 @@
 site_name: Tomas Rojo
 site_author: Tomas Rojo
-
-# Copyright
+site_url: https://tomasrojo.cloud
 copyright: Copyright &copy; 2024 Tomas Rojo
 
 theme:
